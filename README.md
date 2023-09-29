@@ -14,7 +14,7 @@ This Python project provides a command-line interface (CLI) tool to convert GeoJ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-url/geojson-to-geoparquet.git
+   git clone https://github.com/Bonsa11/geojson-to-geoparquet.git
    ```
 
 2. Navigate to the project directory:
